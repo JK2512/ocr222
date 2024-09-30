@@ -1,7 +1,7 @@
 
 Create a Virtual Environment by using command:
 python -m venv ocr_env
-source ocr_env/bin/activate  # On Windows use: ocr_env\Scripts\activate
+.....TO  activate environment use : source ocr_env/bin/activate  # On Windows use: ocr_env\Scripts\activate
 
 
 Install Required Libraries: Use pip to install necessary libraries
