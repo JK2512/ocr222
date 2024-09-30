@@ -20,3 +20,6 @@ Run the Application:
 2   write this command and it will open web application
     streamlit run app.py
 
+
+DEPLOYMENT PROCESS:
+I deployed in hugging face where I created space and entered requirements.txt and app.txt.
